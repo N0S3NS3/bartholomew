@@ -138,7 +138,7 @@ UpgradeLog*.htm
 *.txt~
 *.swp
 *.swo
- 
+
 # svn
 .svn
 
@@ -181,6 +181,8 @@ $RECYCLE.BIN/
 
 # Visual Studio temp something
 .vs/
+
+.userprefs
 
 #####
 # End of core ignore list, below put you custom 'per project' settings (patterns or path)
